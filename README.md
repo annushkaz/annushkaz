@@ -26,7 +26,7 @@
   <br><br>
    Transformo ideas complejas en soluciones digitales elegantes, potentes y seguras. Con una combinación única de pensamiento creativo, enfoque técnico y pasión por el detalle, diseño experiencias que conectan, resuelven y perduran.  
   <br><br>
-   Fundé <a href="https:// studio.cognixion.online" target="_blank" rel="noopener noreferrer">Cognixion Studio</a>, una iniciativa que impulsa desarrollos web avanzados, modding profesional de videojuegos, automatización con inteligencia artificial y ciberseguridad de alto nivel para creadores de contenido, comunidades en línea y startups.  
+   Fundé <a href="https://studio.cognixion.online" target="_blank" rel="noopener noreferrer">Cognixion Studio</a>, una iniciativa que impulsa desarrollos web avanzados, modding profesional de videojuegos, automatización con inteligencia artificial y ciberseguridad de alto nivel para creadores de contenido, comunidades en línea y startups.  
   <br><br>
   ⚙ Mis proyectos se caracterizan por un código limpio, arquitecturas escalables, rendimiento superior, accesibilidad inclusiva y estándares modernos como JAMstack, Docker, GraphQL, Tailwind CSS y sistemas CI/CD. Creo firmemente en el <em>open source</em> como catalizador del conocimiento colectivo y la innovación abierta.  
   <br><br>
