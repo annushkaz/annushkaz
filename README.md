@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Juan Pablo Morales Herrera — @Yanpol</h1>
+<h1 align="center">🚀 Juan Pablo Morales Herrera — @Annushkaz</h1>
 <h3 align="center">Desarrollador Full Stack | Experto en Ciberseguridad 🇨🇷</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### 🧠 Sobre Mí
 
 <p align="justify" style="max-width:800px;">
-  👋 ¡Hola! Soy <strong>Juan Pablo Morales Herrera</strong>, conocido como <em>Yanpol</em>, un creador digital multidisciplinario y desarrollador Full Stack con raíces en <strong>Costa Rica 🇨🇷</strong> y visión global.  
+  👋 ¡Hola! Soy <strong>Juan Pablo Morales Herrera</strong>, conocido como <em>Annushkaz</em>, un creador digital multidisciplinario y desarrollador Full Stack con raíces en <strong>Costa Rica 🇨🇷</strong> y visión global.  
   <br><br>
    Transformo ideas complejas en soluciones digitales elegantes, potentes y seguras. Con una combinación única de pensamiento creativo, enfoque técnico y pasión por el detalle, diseño experiencias que conectan, resuelven y perduran.  
   <br><br>
