@@ -51,7 +51,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/OhKoohs/SistemaPulperia" target="_blank" rel="noopener noreferrer">SistemaPulpería</a></td>
+      <td><a href="https://github.com/annushkaz/SistemaPulperia" target="_blank" rel="noopener noreferrer">SistemaPulpería</a></td>
       <td>Sistema de gestión de inventarios para microempresas con Tkinter y SQLite.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OhKoohs/MinecraftModSuite" target="_blank" rel="noopener noreferrer">Minecraft Mod Suite</a></td>
+      <td><a href="https://github.com/annushkaz/MinecraftModSuite" target="_blank" rel="noopener noreferrer">Minecraft Mod Suite</a></td>
       <td>Herramientas para administración y personalización de servidores Minecraft.</td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
@@ -67,7 +67,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/OhKoohs/CognixionStudio" target="_blank" rel="noopener noreferrer">Cognixion Studio</a></td>
+      <td><a href="https://github.com/annushkaz/NoxCraft Studio" target="_blank" rel="noopener noreferrer">NoxCraft Studio</a></td>
       <td>Plataforma modular para web, juegos, bots y soluciones de ciberseguridad.</td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
