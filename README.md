@@ -57,7 +57,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/annushkaz/MinecraftModSuite" target="_blank" rel="noopener noreferrer">TestLab</a></td>
+      <td><a href="https://github.com/annushkaz/TestLab" target="_blank" rel="noopener noreferrer">TestLab</a></td>
       <td>Plataforma web interactiva con tests de velocidad, reacción, precisión y mecanografía para medir y desafiar tus habilidades cognitivas directamente en el navegador.</td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
