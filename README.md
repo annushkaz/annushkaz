@@ -61,7 +61,7 @@
       <td>Plataforma web interactiva con tests de velocidad, reacción, precisión y mecanografía para medir y desafiar tus habilidades cognitivas directamente en el navegador.</td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=typescript&logoColor=white" alt="Node.js" />
       </td>
     </tr>
     <tr>
