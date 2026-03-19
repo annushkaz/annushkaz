@@ -58,19 +58,6 @@
 
 ---
 
-### 🧾 Certificaciones y Logros
-
-<div align="center" style="gap:8px; display:flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Desarrollador%20Full%20Stack-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Full Stack" />
-  <img src="https://img.shields.io/badge/TryHackMe-Jr%20PenTester%20Path-purple?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Jr PenTester" />
-  <img src="https://img.shields.io/badge/Udemy-Hacking%20Ético-red?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Ethical Hacking" />
-  <img src="https://img.shields.io/badge/Postman-Diseño%20de%20API-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Design" />
-  <img src="https://img.shields.io/badge/OpenClassrooms-Agile%20y%20Scrum-blue?style=for-the-badge&logo=openclassrooms&logoColor=white" alt="OpenClassrooms Agile Scrum" />
-</div>
-
----
-
 ### 🛠️ Stack Tecnológico y Herramientas
 
 #### Lenguajes y Frameworks
@@ -116,10 +103,10 @@
 
 <img align="right" height="150" src="https://d.furaffinity.net/art/leviathinh/1574394402/1574394402.leviathinh_glitch.finish.gif" alt="GIF estilo glitch" />
 
-- 🔐 Apasionado por la ciberseguridad y la privacidad digital  
-- 🎮 Gamer y creador de mods para Minecraft  
-- 🎤 Actor de voz y productor de audio en ratos libres  
-- ☕ Amante del café y aprendiz de por vida  
+-  Apasionado por la ciberseguridad y la privacidad digital  
+-  Gamer y creador de mods para Minecraft  
+-  Actor de voz y productor de audio en ratos libres  
+-  Amante del café y aprendiz de por vida  
 - 🇨🇷 Innovador orgulloso de Costa Rica  
 
 ---
