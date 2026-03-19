@@ -117,7 +117,7 @@
   <a href="https://instagram.com/juanpablomh_omg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" alt="Instagram" height="35" />
   </a>
-  <a href="mailto:moralesherrerajuanpablo63@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:moralesherrerajuanpablo62@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Correo&logo=gmail&color=D14836&style=for-the-badge" alt="Correo Gmail" height="35" />
   </a>
   <a href="https://discord.com/invite/VJxGnpKra7" target="_blank" rel="noopener noreferrer">
