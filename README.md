@@ -16,27 +16,6 @@
 </div>
 
 ---
-
-### 🧠 Sobre Mí
-
-<p align="justify" style="max-width:800px;">
-  👋 ¡Hola! Soy <strong>Juan Pablo Morales Herrera</strong>, conocido como <em>Annushkaz</em>, un creador digital multidisciplinario y desarrollador Full Stack con raíces en <strong>Costa Rica 🇨🇷</strong> y visión global.  
-  <br><br>
-   Transformo ideas complejas en soluciones digitales elegantes, potentes y seguras. Con una combinación única de pensamiento creativo, enfoque técnico y pasión por el detalle, diseño experiencias que conectan, resuelven y perduran.  
-  <br><br>
-   Fundé <a href="https://studio.noxcraft.xyz" target="_blank" rel="noopener noreferrer">NoxCraft Studio</a>, una iniciativa que impulsa desarrollos web avanzados, modding profesional de videojuegos, automatización con inteligencia artificial y ciberseguridad de alto nivel para creadores de contenido, comunidades en línea y startups.  
-  <br><br>
-  ⚙ Mis proyectos se caracterizan por un código limpio, arquitecturas escalables, rendimiento superior, accesibilidad inclusiva y estándares modernos como JAMstack, Docker, GraphQL, Tailwind CSS y sistemas CI/CD. Creo firmemente en el <em>open source</em> como catalizador del conocimiento colectivo y la innovación abierta.  
-  <br><br>
-   He contribuido a herramientas para servidores Minecraft, bots inteligentes en Discord, portales interactivos para marcas emergentes, plataformas educativas, soluciones personalizadas de gestión comercial y entornos seguros para comunidades digitales.
-  <br><br>
-   Actualmente exploro con entusiasmo áreas como <strong>inteligencia artificial aplicada</strong>, <strong>blockchain para identidad y gobernanza</strong>, <strong>realidad aumentada</strong>, <strong>interfaces humanas responsivas</strong> y <strong>plataformas descentralizadas</strong>.  
-  <br><br>
-   Soy un eterno aprendiz, convencido de que la tecnología debe tener propósito, ética y visión a largo plazo. Aspiro a construir soluciones que inspiren, resuelvan y empoderen a quienes las usan.
-  <br><br>
-   ¿Buscas colaborar en un proyecto ambicioso, una mentoría, un desafío técnico o una solución a medida? ¡Estoy abierto a conectar contigo!  
-</p>
-
 ### 🚀 Proyectos Destacados
 
 <table>
