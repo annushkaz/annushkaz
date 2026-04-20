@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td><a href="https://yuutiers.xyz" target="_blank" rel="noopener noreferrer">YuuTiers</a></td>
-      <td>La mejor tierlist de minecraft pvp</td>
+      <td>La mejor tierlist de minecraft pvp (En Desarrollo)</td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
