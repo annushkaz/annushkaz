@@ -39,16 +39,16 @@
       <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
       <td></td>
       <td>
-        <img src="" alt="Java" />
-        <img src="" alt="Node.js" />
+        <img src="" alt="" />
+        <img src="" alt="" />
       </td>
     </tr>
     <tr>
       <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
       <td></td>
       <td>
-        <img src="" alt="Next.js" />
-        <img src="" alt="React" />
+        <img src="" alt="" />
+        <img src="" alt="" />
       </td>
     </tr>
   </tbody>
