@@ -39,16 +39,16 @@
       <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
       <td></td>
       <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=typescript&logoColor=white" alt="Node.js" />
+        <img src="" alt="Java" />
+        <img src="" alt="Node.js" />
       </td>
     </tr>
     <tr>
       <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
       <td></td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
+        <img src="" alt="Next.js" />
+        <img src="" alt="React" />
       </td>
     </tr>
   </tbody>
