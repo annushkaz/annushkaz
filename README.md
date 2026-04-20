@@ -28,24 +28,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/annushkaz/SistemaPulperia" target="_blank" rel="noopener noreferrer">SistemaPulpería</a></td>
-      <td>Sistema de gestión de inventarios para microempresas con Tkinter y SQLite.</td>
+      <td><a href="https://yuutiers.xyz" target="_blank" rel="noopener noreferrer">YuuTiers</a></td>
+      <td>La mejor tierlist de minecraft pvp</td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=flat&logo=python" alt="Tkinter" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/annushkaz/Testers" target="_blank" rel="noopener noreferrer">TestLab</a></td>
-      <td>Plataforma web interactiva con tests de velocidad, reacción, precisión y mecanografía para medir y desafiar tus habilidades cognitivas directamente en el navegador.</td>
+      <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+      <td></td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=typescript&logoColor=white" alt="Node.js" />
       </td>
     </tr>
     <tr>
-      <td><a href="https://yuutiers.xyz" target="_blank" rel="noopener noreferrer">YuuTiers</a></td>
-      <td>La mejor tierlist de minecraft</td>
+      <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+      <td></td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
