@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFCC6&center=true&vCenter=true&width=600&lines=Construyendo+Experiencias+Web+Poderosas;Creando+Soluciones+Seguras+y+Escalables;Desde+Costa+Rica+para+el+Mundo" alt="Typing animation" />
 </p>
 
-### 📊 Resumen y Estadísticas de GitHub
+### Resumen y Estadísticas de GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=annushkaz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -16,7 +16,7 @@
 </div>
 
 ---
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 <table>
   <thead>
@@ -54,7 +54,7 @@
   </tbody>
 </table>
 
-> ⚡ Más proyectos y contribuciones en mi perfil público de GitHub.
+> Más proyectos y contribuciones en mi perfil público de GitHub.
 
 ---
 
@@ -99,7 +99,7 @@
 
 ---
 
-### 🎮 Personalidad y Pasatiempos
+### Personalidad y Pasatiempos
 
 <img align="right" height="150" src="https://d.furaffinity.net/art/leviathinh/1574394402/1574394402.leviathinh_glitch.finish.gif" alt="GIF estilo glitch" />
 
@@ -111,7 +111,7 @@
 
 ---
 
-### 📬 Conectemos
+### Conectemos
 
 <div align="left" style="gap:12px; display:flex; flex-wrap: wrap;">
   <a href="https://instagram.com/juanpablomh_omg" target="_blank" rel="noopener noreferrer">
@@ -125,19 +125,19 @@
   </a>
 </div>
 
-### 🔧 Currently Working On
-- 💼 Freelance full-stack projects
-- 🚀 Building SaaS tools with Next.js, Prisma & Tailwind
-- 🛡️ Exploring offensive & defensive cybersecurity practices
-- 🎓 Expanding skills in AI & backend distributed systems
+###  Currently Working On
+-  Freelance full-stack projects
+-  Building SaaS tools with Next.js, Prisma & Tailwind
+-  Exploring offensive & defensive cybersecurity practices
+-  Expanding skills in AI & backend distributed systems
 
 ---
 
-### 🧠 Frase Final
+###  Frase Final
 
 > “El código es como el arte — pero que funciona.”  
 > — *Juan Pablo Morales Herrera*
 
 ---
 
-<!-- ¡Gracias por visitar! 🚀 -->
+<!-- ¡Gracias por visitar!  -->
