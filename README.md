@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Juan Pablo Morales Herrera — @Annushkaz</h1>
+<h1 align="center">Juan Pablo Morales Herrera — @Annushkaz</h1>
 <h3 align="center">Desarrollador Full Stack | Experto en Ciberseguridad 🇨🇷</h3>
 
 <p align="center">
