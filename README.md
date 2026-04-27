@@ -58,7 +58,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico y Herramientas
+### Stack Tecnológico y Herramientas
 
 #### Lenguajes y Frameworks
 
