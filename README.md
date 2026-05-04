@@ -265,7 +265,7 @@ Mas alla del terminal, soy un gamer apasionado, creador de mods para Minecraft, 
     <tr>
       <td><strong>Ruso</strong> — Russian / Русский</td>
       <td>Nivel intermedio</td>
-      <td><img src="https://img.shields.io/badge/Intermedio-a78bfa?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/Aprendiendo-f59e0b?style=flat-square" /></td>
     </tr>
     <tr>
       <td><strong>Portugues</strong> — Portuguese</td>
